@@ -43,7 +43,6 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [testing tutorial]([https://github.com/matiassingers/awesome-readme](https://www.freecodecamp.org/news/write-unit-tests-using-react-testing-library/
-))
+* [testing tutorial](https://www.freecodecamp.org/news/write-unit-tests-using-react-testing-library/)
 
 
