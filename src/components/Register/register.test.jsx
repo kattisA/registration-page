@@ -2,13 +2,14 @@ import { render, screen } from "@testing-library/react";
 import Register from "./Register";
 import userEvent from "@testing-library/user-event";
 
-describe("Register component", () => {
-    it("should render Register component correctly", () => {
+describe("Heading level one", () => {
+    it("should have a heading level 1", () => {
         render(<Register />);
-        const element = screen.getByRole("heading", { level: 2 });
+        const element = screen.getByRole("heading", { level: 1 });
         expect(element).toBeInTheDocument();
     });
 });
+
 
 it("should test for presence of subheading in the component", () => {
     render(<Register />);

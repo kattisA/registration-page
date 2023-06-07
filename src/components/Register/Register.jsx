@@ -59,11 +59,11 @@ const Register = () => {
     return (
         <div className="registration">
             <div className="container">
-                <h2 className="title">Register</h2>
+                <h1 className="title">Register</h1>
                 <Form onSubmit={handleFormSubmit}>
-                    <h6 className="subtitle">
+                    <h2 className="subtitle">
                         Please enter your details below to register yourself.
-                    </h6>
+                    </h2>
                     {successMsg && <Alert variant="success">{successMsg}</Alert>}
                     {errorMsg && <Alert variant="danger">{errorMsg}</Alert>}
                     <Form.Group className="mb-3" controlId="name">
