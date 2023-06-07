@@ -4,45 +4,33 @@ React app with jest testing.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
+Project to learn more about React testing with jest.
+- Testing with jest library 
+- Using Vite for creating a React app
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* jest
+* vitest
+* bootstrap 
+* react-bootstrap
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* npm install
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+How to run the program
+
 ```
-code blocks for commands
+npm run dev
 ```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
+Inspiration:
 * [testing tutorial](https://www.freecodecamp.org/news/write-unit-tests-using-react-testing-library/)
+* [tutorial repository](https://github.com/myogeshchavan97/testing-library-demo)
 
 
